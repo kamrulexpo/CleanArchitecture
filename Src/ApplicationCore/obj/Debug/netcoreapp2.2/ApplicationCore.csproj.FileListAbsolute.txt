@@ -1,0 +1,9 @@
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.deps.json
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Users\Kamrul\source\repos\CleanArchitecture\Src\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.pdb
